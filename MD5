@@ -1,0 +1,14 @@
+23f2ec1ea59906d483f9cd462bcfbeea *DESCRIPTION
+7ed4c6a2aeb204e00135d6432bd7edba *NAMESPACE
+29afcb590a57aea0c91b01767935bbb0 *R/alleleEnrichment.R
+c8bfb5f0fc47234797216ec5f8e01826 *R/alleleEnrichment.data.R
+89cec2cdae3584826835d95a1e6cf494 *R/alleleEnrichment.lp.R
+1ee561b96c46ba6bb1cc54a62ccf3ef6 *R/alleleEnrichment.perm.R
+190a70b76bddd49fad3372fc94db923f *R/getGenotypes.R
+5e3c2a48e3c20abaf4462f2ee51995da *R/getSnpWeights.R
+1f2a79a5ffac04066b1e2b09fee00c2a *inst/extdata/example.gwas
+8f68a8da25f40f3bed694061965b173c *inst/extdata/example.map
+709d79cd6ca63ea360e4e9b26790c0e0 *inst/extdata/example.ped
+f0d92d366b95f5a0df6472ae422ce958 *inst/extdata/example.pheno
+3a8bb3941f3239f29e6acfa49c10b4fe *man/alleleEnrichment.Rd
+b25af3dbe201aa076c799d0a571db48c *man/getSnpWeights.Rd
